@@ -37,15 +37,6 @@
 
 ---
 
-# 🌐 Connect With Me
-
-* GitHub: https://github.com/hmrj1
-* LeetCode: https://leetcode.com/u/hmrj/
-* Codeforces: https://codeforces.com/profile/hmrj
-* LinkedIn: https://www.linkedin.com/in/hemraj-lovewanshi-866920319/
-
----
-
 # 📈 Current Goals
 
 * Master DSA
