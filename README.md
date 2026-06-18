@@ -43,14 +43,12 @@
 
 ## 📈 Current Goals
 
-| Goal |
-| :--- | :---: |
-| Master DSA | 
-| Improve Development Skills | 
-| Build Real Projects | 
-| Prepare for Internships | 
-| Strengthen Problem Solving | 
----
+- [ ] Master DSA
+- [ ] Improve Development Skills
+- [ ] Build Real Projects
+- [ ] Prepare for Internships
+- [ ] Strengthen Problem Solving
+
 
 ## 📊 GitHub Stats
 
