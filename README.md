@@ -14,7 +14,7 @@
 💻 Currently learning **C++**, **Problem Solving**, and **Development**<br>
 🎯 Focused on becoming a **Software Engineer**
 
-📍 **Aklera, India** · 
+📍 **Aklera, India** 
 ---
 🎓 **Rajiv Gandhi Institute of Petroleum Technology, Amethi**
 
