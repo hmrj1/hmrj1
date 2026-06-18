@@ -12,16 +12,18 @@
 
 🚀 **Passionate about Software Development, DSA, and AI/ML**<br>
 💻 Currently learning **C++**, **Problem Solving**, and **Development**<br>
-🎯 Focused on becoming a **strong Software Engineer**
+🎯 Focused on becoming a **Software Engineer**
 
-📍 **Aklera, India** · 🎓 **Rajiv Gandhi Institute of Petroleum Technology, Amethi**
+📍 **Aklera, India** · 
+---
+🎓 **Rajiv Gandhi Institute of Petroleum Technology, Amethi**
 
 ---
 
 ## 🧠 About Me
 
 - 🌱 Currently learning **Data Structures & Algorithms**
-- 💻 Practicing **C++** and **STL** daily
+- 💻 Practicing **C++** and **STL** 
 - 🏆 **ET AI Hackathon 2026** Semi-Finalist
 - 📚 Building projects and improving every day
 - ⚡ Interested in **Development**, **AI**, and **Competitive Programming**
