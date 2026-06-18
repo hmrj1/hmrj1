@@ -1,10 +1,14 @@
 # 👋 Hi, I'm Hemraj Lovewanshi
 
 [![GitHub followers](https://img.shields.io/github/followers/hmrj1?label=Follow&style=social)](https://github.com/hmrj1)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hmrj/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/hmrj/)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/hmrj)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/hmrj1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmrj/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/hmrj/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hmrj)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/hmrj1)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/hmrj)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/hmrj)
+
+---
 
 🚀 **Passionate about Software Development, DSA, and AI/ML**<br>
 💻 Currently learning **C++**, **Problem Solving**, and **Development**<br>
@@ -49,6 +53,7 @@
 - [ ] Prepare for Internships
 - [ ] Strengthen Problem Solving
 
+---
 
 ## 📊 GitHub Stats
 
@@ -71,11 +76,7 @@
 
 ---
 
-## 🚀 Quote
 
-> Consistency beats intensity. ⭐
-
----
 
 ## 🌐 Find Me Online
 
@@ -91,4 +92,6 @@
 
 ---
 
-⭐ **Thanks for visiting my profile!** Feel free to connect or reach out. 🚀
+<img src="https://komarev.com/ghpvc/?username=hmrj1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+
+⭐ **Thanks for visiting!** Feel free to connect or reach out. 🚀
